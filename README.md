@@ -12,6 +12,12 @@ Throughout the repo we will find different code pills where different Python and
 
 - [Regex-Python](https://github.com/AnaAGG/Code_Pills/tree/main/Regex-Python)
 
+- [Selenium](https://github.com/AnaAGG/Code_Pills/tree/main/Selenium)
+
+- [Streamlit](https://github.com/AnaAGG/Code_Pills/tree/main/Stremlit)
+
+- [Kepler](https://github.com/AnaAGG/Code_Pills/tree/main/Kepler_maps)
+
 **R**
 
 - [R Basics](https://github.com/AnaAGG/Code_Pills/tree/main/Understanding_R_workshop)
