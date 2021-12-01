@@ -41,19 +41,19 @@ In Time Series, we have only 2 variables, time & the variable we want to forecas
 
     Autocorrelation is the similarity between observations as a function of the time lag between them. 
 
-<img src="[Correlation](https://github.com/AnaAGG/Workshops/blob/main/Time-Series-Prophet/Images/Correlation.png)">
+<img src="https://github.com/AnaAGG/Workshops/blob/main/Time-Series-Prophet/Images/Correlation.png">
 
 - **Seasonality**
 
     Seasonality is a repeating pattern within a fixed period. Refers to periodic fluctuations. For example, electricity consumption is high during the day and low during night, or high temperatures in summer and lower in winter.
 
-<img src="https://github.com/AnaAGG/Workshops/blob/main/Time-Series-Prophet/Images/main.jpeg">
+<img src="https://github.com/AnaAGG/Workshops/blob/main/Time-Series-Prophet/Images/Seasonality.png">
 
 - **Stationarity**
 
     Stationarity is an important characteristic of time series. A time series is said to be stationary if its statistical properties do not change over time. In other words, it has constant mean and variance, and covariance is independent of time.
 
-<img src="https://github.com/AnaAGG/Time_Series_Project/blob/main/Images/Stationarity.png">
+<img src="https://github.com/AnaAGG/Workshops/blob/main/Time-Series-Prophet/Images/Stationarity.png">
 
 
 # Links
