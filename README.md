@@ -6,9 +6,14 @@ What does this mean?
 
 Throughout the repo we will find different code pills where different Python and R tools will be presented. 
 
-Python
-- Prophet Time Series
+**Python**
 
-R
-- R Basics
-- Linear Regression
+- [Prophet Time Series](https://github.com/AnaAGG/Code_Pills/tree/main/Time-Series-Prophet)
+
+- [Regex-Python](https://github.com/AnaAGG/Code_Pills/tree/main/Regex-Python)
+
+**R**
+
+- [R Basics](https://github.com/AnaAGG/Code_Pills/tree/main/Understanding_R_workshop)
+
+- [Linear Regression](https://github.com/AnaAGG/Code_Pills/tree/main/Understanding_R_workshop)
